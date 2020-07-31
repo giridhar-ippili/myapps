@@ -1,4 +1,4 @@
-package com.example.BuddyKeeper
+package com.example.buddykeeper
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
